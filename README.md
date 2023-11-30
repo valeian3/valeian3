@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hello there! 👋
+I'm a front-end developer who finds joy in creating inspired, modern, and delightfully simple designs!
 
+👩‍💻 I'm currently crafting a warranty tracker, ensuring your gadget warranties are effortlessly monitored and always up-to-date for peace of mind!
+
+🧠 I'm currently learning NextJS and Tailwind CSS
+
+💬 Ask me anything
 <!--
 **valeian3/valeian3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
