@@ -1,9 +1,8 @@
 # Hello there! 👋
-I'm a front-end developer who finds joy in creating inspired, modern, and delightfully simple designs!
+I'm a front-end |web developer 👩‍💻 who finds joy in creating modern, and delightfully designs!
 
-👩‍💻 I'm currently crafting a warranty tracker, ensuring your gadget warranties are effortlessly monitored and always up-to-date for peace of mind!
-
-🧠 I'm currently learning NextJS and Tailwind CSS
+- 🌱 I’m currently learning user auth on client side,
+- 🧠 and learning user auth on server side using ExpressJS
 
 💬 Ask me anything
 <!--
@@ -12,6 +11,8 @@ I'm a front-end developer who finds joy in creating inspired, modern, and deligh
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 🧠 I'm currently learning ...
+- 👩‍💻 I'm currently crafting a ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
