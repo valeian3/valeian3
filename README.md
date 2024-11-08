@@ -1,5 +1,5 @@
 # Hello there! 👋
-I'm a front-end |web developer 👩‍💻 who finds joy in creating modern, and delightfully designs!
+I'm a front-end | web developer 👩‍💻 who finds joy in creating modern, and delightfully designs!
 
 - 🌱 I’m currently learning user auth on client side,
 - 🧠 and learning user auth on server side using ExpressJS
